@@ -1,0 +1,4 @@
+﻿Build started...
+------ Build started: Project: Assembly-CSharp, Configuration: Debug Any CPU ------
+C:\Users\gurjo\OneDrive\Desktop\My project\Assets\Scripts\Player.cs(21,20): warning CS0414: The field 'Player.WALK_ANIMATION' is assigned but its value is never used
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
